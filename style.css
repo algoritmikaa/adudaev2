@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+  background-color: rgb(124, 195, 171);
+  padding: 10px;
+  border-radius: 10px; 
+}
+
+main h1 {
+  text-align: center;
+  color: blue;
+}
+
+footer {
+  background-color: peru;
+  padding: 10px;
+}
+
+footer p{
+  background-color: white;
+}
+
+.algo {
+    background-color: rgb(54, 167, 46);
+}
